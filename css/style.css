@@ -7,7 +7,7 @@ License URL: http://creativecommons.org/licenses/by/3.0/
 body{
 	margin:0; 
 	font-family: 'Roboto Condensed', sans-serif;
-	background: #fff;
+	background: #523c1154;
 }
 body a{ 
 	-webkit-transition: 0.5s all;
@@ -244,8 +244,8 @@ ul.cd-dropdown-content li {
 	transition: 0.5s all;
 }
 .my-account a i.fa{
-    color: #cccccc;
-    margin-right: 3px; 
+    color: ##d21313;
+    margin-right: 3px;
     -webkit-transition: 0.5s all;
     -moz-transition: 0.5s all;
     -o-transition: 0.5s all;
@@ -1279,7 +1279,7 @@ input.item_quantity:hover{
     cursor: pointer;
     line-height: initial;
     font-size: 1em;
-    color: #353F49;
+    color: #000;
     font-weight: 500;
     margin: 0 0 1.5em;
 }
@@ -1322,7 +1322,7 @@ input.item_quantity:hover{
 }
 /*-- start scrollpane --*/
 .sidebar-row .faq li a {
-    color: #353F49;
+    color: #000;
 }
 .scroll-pane.jspScrollable {
     outline: none;
@@ -1456,11 +1456,11 @@ input#amount {
     display:inline-block;
 }
 .related-row ul li a {
-    border: 1px solid #ccc;
+    border: 1px solid #222;
     padding: 2px 5px;
     display: block;
     margin: 5px 0px;
-    color: #999;
+    color: #000;
 	font-size:1em;
 }
 .related-row ul li a:hover{
